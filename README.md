@@ -14,5 +14,5 @@ Visual and Interactive Elements: Includes exercise image generation and YouTube 
 Modern UI/UX Design: User-friendly interface with a sleek purple and white theme.
 Robust Backend: Efficient data management with Node.js/Express and MongoDB.
 
-Click here to access the full completed website for this project: https://www.fitsgpt.com/ -> This URL is still up but the backend is no longer running due to high server costs 
+The public domain for this project is no longer active, however you can find a link for the demo down below: 
 -https://www.youtube.com/watch?v=Hu6NTbkKQzs&t=305s  ->This is a youtube demo of the project when it was fully opperational
